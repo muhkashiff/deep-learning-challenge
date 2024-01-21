@@ -1,6 +1,8 @@
 # deep-learning-challenge
 ## Overview:
-    Purpose of this analysis is to create a tool for the nonprofit Organization Alphabet Soup by using Machine Learning and Neural Network Technique so they can make a decision about the potential future applicants to either approve or reject the application.
+    Purpose of this analysis is to create a tool for the nonprofit Organization Alphabet Soup
+    by using Machine Learning and Neural Network Technique so they can make a decision about
+    the potential future applicants to either approve or reject the application.
 ## Results:
 <li>
   <ul>Data Preprocessing</ul>
