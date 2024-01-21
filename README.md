@@ -15,7 +15,7 @@
           No. of nodes: First layers: 80, second & third :30, output layer:1<br>
           No. of epochs: 100<br>
           Activation first layer: sigmoid<br>
-        ![A test image](image1.png)
+        [![model](https://github.com/muhkashiff/deep-learning-challenge/)](model)
       <li>Model 2 parameters:</li>
           No. of Hidden layers: 2<br>
           No. of nodes: First layers: 90, second & third :40, output layer:1<br>
