@@ -1,8 +1,8 @@
 # deep-learning-challenge
 ## Overview:
-    <ul>Purpose of this analysis is to create a tool for the nonprofit Organization Alphabet Soup<br>
-    by using Machine Learning and Neural Network Technique so they can make a decision about<br>
-    the potential future applicants to either approve or reject the application.<br></ul>
+    Purpose of this analysis is to create a tool for the nonprofit Organization Alphabet Soup
+    by using Machine Learning and Neural Network Technique so they can make a decision about
+    the potential future applicants to either approve or reject the application.
 ## Results:
 <ul>
   <li>Data Preprocessing</li>
@@ -25,4 +25,8 @@
           No. of nodes: First layers: 80, second & third :30, output layer:1<br>
           No. of epochs: 200<br>
           Activation first layer: sigmoid<br>
+    Based on above changes to model, accuracy could not be increased to 75% target.<br>
+    In order to increase the model performance, bining parameters were changed, number of neurons<br>
+    were increased, activation parameters were changed.<br>
+    
 </ul>
