@@ -15,21 +15,27 @@
           No. of nodes: First layers: 80, second & third :30, output layer:1<br>
           No. of epochs: 100<br>
           Activation first layer: sigmoid<br> 
-    <img src="https://github.com/muhkashiff/deep-learning-challenge/blob/main/image1.png" alt="model1"/>
+    <img src="https://github.com/muhkashiff/deep-learning-challenge/blob/main/image1.png" alt="model1"/><br>
       <li>Model 2 parameters:</li>
           No. of Hidden layers: 2<br>
           No. of nodes: First layers: 90, second & third :40, output layer:1<br>
           No. of epochs: 100<br>
           Activation first layer: relu<br>
-    <img src="https://github.com/muhkashiff/deep-learning-challenge/blob/main/image2.png" alt="model2"/>
+    <img src="https://github.com/muhkashiff/deep-learning-challenge/blob/main/image2.png" alt="model2"/><br>
       <li>Model 3 parameters:</li>
           No. of Hidden layers: 3<br>
           No. of nodes: First layers: 80, second & third :30, output layer:1<br>
           No. of epochs: 200<br>
           Activation first layer: sigmoid<br>
-    <img src="https://github.com/muhkashiff/deep-learning-challenge/blob/main/image3.png" alt="model3"/>
+    <img src="https://github.com/muhkashiff/deep-learning-challenge/blob/main/image3.png" alt="model3"/><br>
     Based on above changes to model, accuracy could not be increased to 75% target.<br>
     In order to increase the model performance, bining parameters were changed, number of neurons<br>
     were increased, activation parameters were changed.<br>
+## Summary:
+    Overall based on the model variations, not much accuracy improvement was observed. fit model showed accuracy<br>
+    imparovement but when tested against test Data. accuracy score of 0.7227 was observed for model3. Model 1 has <br>
+    accuracy score of 0.7241. So by changing nodes and layers did not help much improvement.
+    Linear regression model can be used as alternative to predict results.
+
     
 </ul>
