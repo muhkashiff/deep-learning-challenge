@@ -6,8 +6,8 @@
 ## Results:
 <ul>
   <li>Data Preprocessing</li>
-      Target variable in Data Set is application_df["IS_SUCCESSFUL"]
-      Features variable includes anyother columns than application_df["NAME"] and application_df["EIN"]
+      Target variable in Data Set is application_df["IS_SUCCESSFUL"]<br>
+      Features variable includes anyother columns than application_df["NAME"] and application_df["EIN"]<br>
   <li>Compiling, Training and Evaluating the Model</li>
       
 </ul>
