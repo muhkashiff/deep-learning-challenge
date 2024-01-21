@@ -31,11 +31,11 @@
     Based on above changes to model, accuracy could not be increased to 75% target.<br>
     In order to increase the model performance, bining parameters were changed, number of neurons<br>
     were increased, activation parameters were changed.<br></ul>
-## Summary:
+    
+    ## Summary:
     Overall based on the model variations, not much accuracy improvement was observed. fit model showed accuracy<br>
     imparovement but when tested against test Data. accuracy score of 0.7227 was observed for model3. Model 1 has <br>
     accuracy score of 0.7241. So by changing nodes and layers did not help much improvement.<br>
     Linear regression model can be used as alternative to predict results.
 
     
-</ul>
